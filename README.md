@@ -19,7 +19,7 @@ This repository contains hardware design data only.
 Vial firmware can be obtained from the following URL
 
 - Vial
-    - https://github.com/geek-rabb1t/vial-qmk/tree/grt65_exp_kit/keyboards/geek_rabb1t/grt65_exp_kit
+    - https://github.com/geek-rabb1t/vial-qmk/tree/gr_master/keyboards/geek_rabb1t/grt65_exp_kit
 
 ## Build Guide
 
@@ -49,7 +49,7 @@ GR-Trackpad65 実験キットは [GR-Trackpad65](https://github.com/geek-rabb1t/
 以下のURLにVial対応のファームウェアがあります。
 
 - Vial
-    - https://github.com/geek-rabb1t/vial-qmk/tree/grt65_exp_kit/keyboards/geek_rabb1t/grt65_exp_kit
+    - https://github.com/geek-rabb1t/vial-qmk/tree/gr_master/keyboards/geek_rabb1t/grt65_exp_kit
 
 ## 組み立て手順
 
